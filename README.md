@@ -23,6 +23,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
   * [Packaging](#packaging)
+  * [Queuing](#queuing)
   * [RDBMS](#rdbms)
   * [Security](#security)
   * [SMTP](#smtp)
