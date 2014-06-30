@@ -417,6 +417,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
+* [TRK](http://trinityhome.org) - CPR for your computer! Trinity Rescue Kit is a linux toolkit as a livecd for general computer troubleshooting. Useful for Win, Linux, and OSX.
 * [Wireshark](http://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
 ## Project Management
