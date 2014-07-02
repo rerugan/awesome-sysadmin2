@@ -262,6 +262,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Centreon](http://www.centreon.com) - IT infrastructure and application monitoring for service performance.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
+* [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
@@ -344,13 +345,13 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Queuing
 
+* [ActiveMQ](http://activemq.apache.org/) - An open source message broker written in Java together with a full JMS client
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
 * [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform.
 * [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 * [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
 * [Kafka](http://kafka.apache.org/) - A high-throughput distributed messaging system.
-* [ActiveMQ](http://activemq.apache.org/) - An open source message broker written in Java together with a full JMS client
 
 ## RDBMS
 *Relational DBMS.*
