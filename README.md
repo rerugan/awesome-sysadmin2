@@ -343,6 +343,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
+* [TWW Toolsets](http://www.thewrittenword.com/products/) - Hyper package management system,both toolsets and package sources are free (Python).
 
 ## Queuing
 
