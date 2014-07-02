@@ -257,6 +257,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Monitoring
 *Monitoring software.*
 
+* [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system 
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [Centreon](http://www.centreon.com) - IT infrastructure and application monitoring for service performance.
