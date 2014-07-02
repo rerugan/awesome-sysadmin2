@@ -352,7 +352,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Kafka](http://kafka.apache.org/) - A high-throughput distributed messaging system.
 * [ActiveMQ](http://activemq.apache.org/) - An open source message broker written in Java together with a full JMS client
 
-
 ## RDBMS
 *Relational DBMS.*
 
