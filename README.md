@@ -64,6 +64,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Bup](https://github.com/bup/bup) - Incremental backups with rolling checksums, git packfiles, de-duplication, and a FUSE filesystem.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
+* [Fileprune](http://www.spinellis.gr/sw/unix/fileprune/) - delete archived backup files with diverse constraints.
 * [FreeFileSync](http://sourceforge.net/projects/freefilesync/) - Folder comparison and synchronization tool providing highly optimized performance and usability without a needlessly complex user interface. 
 * [Lsyncd](https://github.com/axkibe/lsyncd) - Watches a local directory trees for changes, and then spawns a process to synchronize the changes. Uses rsync by default.
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
