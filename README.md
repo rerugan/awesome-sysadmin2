@@ -379,13 +379,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
 * [Metasploit](http://www.metasploit.com/) - Penetration testing framework.
-* [Nmap](http://nmap.org/) - Security scanner, with host discovery, port scanning, version detection and OS detection capabilities.
 * [OpenVAS](http://www.openvas.org/) - Open-source vulnerability scanner and manager.
 * [Samhain](http://la-samhna.de/samhain/) - Host-based intrusion detection system, with file integrity checking, log file monitoring/analysis, rootkit detection, port monitoring, detection of rogue SUID execs and hidden processes.
 * [Snort](http://www.snort.org/) - Open-source network intrusion prevention and detection system.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection techniques.
 * [Tripwire (Open Source)](http://sourceforge.net/projects/tripwire/) - Data integrity tool, useful for monitoring and altering on specific file changes.
-* [Wireshark](http://www.wireshark.org/) - Open-source packet analyzer. Previously known as Ethereal.
 
 ## SMTP
 *SMTP servers.*
@@ -442,9 +440,10 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Troubleshooting Tools.*
 
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
+* [Nmap](http://nmap.org/) - Security scanner, with host discovery, port scanning, version detection and OS detection capabilities.
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [TRK](http://trinityhome.org) - CPR for your computer! Trinity Rescue Kit is a linux toolkit as a livecd for general computer troubleshooting. Useful for Win, Linux, and OSX.
-* [Wireshark](http://www.wireshark.org/) - The world's foremost network protocol analyzer.
+* [Wireshark](http://www.wireshark.org/) - Open-source packet analyzer. Previously known as Ethereal.
 
 ## Project Management
 *Web-based project management and bug tracking systems.*
