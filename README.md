@@ -317,7 +317,6 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Newsletter software.*
 
 * [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
-* [Mailman](http://www.list.org/) - Mailing List Manager, written in Python.
 * [phpList](http://www.phplist.com/) - Newsletter manager written in PHP.
 
 ## NoSQL
@@ -338,8 +337,6 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Neo4j](http://www.neo4j.org/) - Open source graph database.
 * Key-Value
   * [LevelDB](https://code.google.com/p/leveldb/) - Google's high performance key/value database.
-  * [Memcached](http://www.memcached.org/) - General-purpose distributed memory caching system, often used to store database objects in memory.
-  * [Project Voldemort](http://www.project-voldemort.com/) - Distributed key-value storage system, developed by LinkedIn.
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
 
@@ -381,6 +378,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection techniques.
+* [Tripwire (Open Source)](http://sourceforge.net/projects/tripwire/) - Data integrity tool, useful for monitoring and altering on specific file changes.
 
 ## SMTP
 *SMTP servers.*
