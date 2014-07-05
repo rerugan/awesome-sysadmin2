@@ -378,6 +378,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [AIDE](http://aide.sourceforge.net/) - The Advanced Intrusion Detection Environment, developed as a free replacement for Tripwire as a data integrity tool.
 * [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
+* [Samhain](http://la-samhna.de/samhain/) - Host-based intrusion detection system, with file integrity checking, log file monitoring/analysis, rootkit detection, port monitoring, detection of rogue SUID execs and hidden processes.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection techniques.
 * [Tripwire (Open Source)](http://sourceforge.net/projects/tripwire/) - Data integrity tool, useful for monitoring and altering on specific file changes.
 
