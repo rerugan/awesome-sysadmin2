@@ -425,6 +425,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Socketpipe](http://www.spinellis.gr/sw/unix/socketpipe/) - Very efficient TCP connection between remote processes.
 * [ssh-ca](https://github.com/cloudtools/ssh-ca/) - Allows giving ssh access to servers without putting a users key on the server, as well as expiring access.
 * [SSH Power Tool](http://code.google.com/p/sshpt/) - Execute commands and upload files to many servers simultaneously without using pre-shared keys.
+* [pdsh](https://code.google.com/p/pdsh/) - Pdsh is a high-performance, parallel remote shell utility.
 
 ## Statistics
 *Analytics software.*
