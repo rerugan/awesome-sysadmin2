@@ -303,6 +303,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Collectd](http://collectd.org/) - System statistic collection daemon.
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
 * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
+* [dattss](https://github.com/teleportd/dattss) - Realtime Statistics Aggregation Service.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
@@ -312,7 +313,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
-* [dattss](https://github.com/teleportd/dattss) - Realtime Statistics Aggregation Service.
+* [Tessera](https://github.com/urbanairship/tessera) - A flexible dashboard front-end for Graphite.
 
 ## Network Configuration Management
 *Network configuration management tools.*
