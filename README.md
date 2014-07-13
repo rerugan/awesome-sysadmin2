@@ -396,6 +396,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [nprobe](http://www.ntop.org/products/nprobe/) - NetFlow analysis/audit toolkit.
 * [ntopng](http://www.ntop.org/products/ntop/) - High-Speed Web-based Traffic Analysis and Flow Collection.
 * [OpenVAS](http://www.openvas.org/) - Open-source vulnerability scanner and manager.
+* [Ossec](http://www.ossec.net) - Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 * [Samhain](http://la-samhna.de/samhain/) - Host-based intrusion detection system, with file integrity checking, log file monitoring/analysis, rootkit detection, port monitoring, detection of rogue SUID execs and hidden processes.
 * [Snort](http://www.snort.org/) - Open-source network intrusion prevention and detection system.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection techniques.
