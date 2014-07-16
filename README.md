@@ -475,12 +475,13 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
 * [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby. 
 * [Gogs](http://gogs.io/) - Written in Go.
+* [Jira](http://www.projectmanagesoft.com/software/) - Written in Java
 * [OpenProject](https://www.openproject.org) - Project collaboration with open source.
 * [Phabricator](http://phabricator.org/) Written in PHP.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
 * [Trac](http://trac.edgewall.org/) - Written in python.
-* [Jira](http://www.projectmanagesoft.com/software/) - Written in Java
+* [Tuleap](http://www.tuleap.net/) - Written in PHP.
 
 ## Version control
 *Software versioning and revision control.*
