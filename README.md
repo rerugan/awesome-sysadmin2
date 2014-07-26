@@ -320,7 +320,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
+* [Graph-Explorer](http://vimeo.github.io/graph-explorer/) - A graphite dashboard that's different, from Vimeo.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
+* [Graphite-ng](http://github.com/graphite-ng) - Next generation graphite server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
 * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
