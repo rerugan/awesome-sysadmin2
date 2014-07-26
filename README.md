@@ -370,6 +370,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [CMake](http://www.cmake.org/) - Cross-platform build and packaging software.
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
+* [packer](http://packer.io) - Packer is a free and open source tool for creating golden images for multiple platforms from a single source configuration.
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 * [TWW Toolsets](http://www.thewrittenword.com/products/) - Hyper package management system,both toolsets and package sources are free (Python).
