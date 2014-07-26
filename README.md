@@ -274,6 +274,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
+* [Log.io](http://logio.org) - Real-time log monitoring in your browser.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
 * [nxlog](http://nxlog-ce.sourceforge.net/) - NXLOG is a universal log collector and forwarder supporting different platforms (BSD, Unix, Linux, Windows, Android), log sources and protocols (Syslog, ...
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
