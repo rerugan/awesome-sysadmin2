@@ -29,8 +29,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [NoSQL](#nosql)
   * [Packaging](#packaging)
   * [Queuing](#queuing)
+  * [Remote Execution](#remote-execution)
   * [RDBMS](#rdbms)
   * [Security](#security)
+  * [Service Management](#service-management)
   * [SMTP](#smtp)
   * [Software Containers](#software-containers)
   * [SSH](#ssh)
@@ -418,6 +420,16 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Snort](http://www.snort.org/) - Open-source network intrusion prevention and detection system.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection techniques.
 * [Tripwire (Open Source)](http://sourceforge.net/projects/tripwire/) - Data integrity tool, useful for monitoring and altering on specific file changes.
+
+## Service Management
+*Software for managing system services*
+
+* [Corosync](http://corosync.github.com/corosync) - The Corosync Cluster Engine is a Group Communication System with additional features for implementing high availability within applications.
+* [etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery
+* [fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system.
+* [Serf](http://www.serfdom.io/) - Service orchestration and management tool.
+* [Systemd](http://www.freedesktop.org/wiki/Software/) - systemd is a system and service manager for Linux, compatible with SysV and LSB init scripts.
+* [Zookeeper](http://zookeeper.apache.org) - ZooKeeper is an open source Apache™ project that provides a centralized infrastructure and services that enable synchronization across a cluster.
 
 ## SMTP
 *SMTP servers.*
