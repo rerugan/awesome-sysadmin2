@@ -5,6 +5,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Backups](#backups)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
+  * [Cloud Orchestration](#cloud-orchestration)
   * [Cloud Storage](#cloud-storage)
   * [Code Review](#code-review)
   * [Collaborative Software](#collaborative-software)
@@ -379,6 +380,14 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 * [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
 * [Kafka](http://kafka.apache.org/) - A high-throughput distributed messaging system.
+
+## Remote Execution
+
+* [Fabric](http://www.fabfile.org/) - An advanced SSH Module for Python to remotely (and locally) execute commands (Used for Application Deployment as well).
+* [Capistrano](http://capistranorb.com/) - An advanced SSH Module for Ruby to remotely (and locally) execute commands (Used for Application Deployment as well).
+* [winexe](http://sourceforge.net/projects/winexe/) - Remotely run commands on Windows from Linux using RPC.
+* [pywinrm](https://github.com/diyan/pywinrm) - Python client to control WinRM.
+* [winrm](https://github.com/WinRb/WinRM) - Ruby client to control WinRM.
 
 ## RDBMS
 *Relational DBMS.*
