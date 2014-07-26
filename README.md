@@ -301,6 +301,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
 * [Seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
+* [Stashboard](http://stashboard.org) - An open-source status dashboard running on App Engine.
 * [System Monitor](https://github.com/abimaelmartell/system_monitor) - Web based system monitor
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
