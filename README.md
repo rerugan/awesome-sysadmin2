@@ -429,6 +429,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Snort](http://www.snort.org/) - Open-source network intrusion prevention and detection system.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection techniques.
 * [Tripwire (Open Source)](http://sourceforge.net/projects/tripwire/) - Data integrity tool, useful for monitoring and altering on specific file changes.
+* [Yasat](http://yasat.sourceforge.net/) - Scan configuration files, kernel parameters and shows the best practices for each cases.
 
 ## Service Management
 *Software for managing system services*
