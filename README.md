@@ -6,6 +6,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
   * [Cloud Orchestration](#cloud-orchestration)
+  * [Service discovery](#service-discovery)
   * [Cloud Storage](#cloud-storage)
   * [Code Review](#code-review)
   * [Collaborative Software](#collaborative-software)
@@ -25,7 +26,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Monitoring](#monitoring)
   * [Metric & Metric Collection](#metric--metric-collection)
   * [Network Configuration Management](#network-configuration-management)
-  * [Newsletter](#newsletters)
+  * [Newsletters](#newsletters)
   * [NoSQL](#nosql)
   * [Packaging](#packaging)
   * [Queuing](#queuing)
@@ -44,8 +45,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Virtualization](#virtualization)
   * [VPN](#vpn)
   * [XMPP](#xmpp)
-  * [Web](#web)
   * [Webmails](#webmails)
+  * [Web](#web)
   * [Wikis](#wikis)
 * [Resources](#resources)
   * [Blogs](#blogs)
@@ -53,9 +54,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Editors](#editors)
   * [Repositories](#repositories)
   * [Websites](#websites)
-* [Contributing](#contributing)
 * [GitTools](#gittools)
 * [Versioning](#versioning)
+* [Contributing](#contributing)
 
 ## Backups
 *Backup software.*
