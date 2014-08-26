@@ -312,6 +312,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
+* [Whoops](http://www.whoopsapp.com/) - Self-hosted tool for logging application events like errors or background worker completion.
 
 ## Metric & Metric Collection
 *Metric gathering and display software.*
