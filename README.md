@@ -303,7 +303,6 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
-* [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
 * [Seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Stashboard](http://stashboard.org) - An open-source status dashboard running on App Engine.
@@ -313,6 +312,13 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 * [Whoops](http://www.whoopsapp.com/) - Self-hosted tool for logging application events like errors or background worker completion.
+
+### Error Monitoring
+*Log exceptions and errors from applications.*
+
+* [Errbit](https://github.com/errbit/errbit) - Error catcher compatible with Airbrake API, in Ruby.
+* [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation in Python.
+* [Squash](http://squash.io/) - Exception reporting and bug analysis tool in Ruby.
 
 ## Metric & Metric Collection
 *Metric gathering and display software.*
