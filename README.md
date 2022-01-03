@@ -485,7 +485,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [ssh-ca](https://github.com/cloudtools/ssh-ca/) - Allows giving ssh access to servers without putting a users key on the server, as well as expiring access.
 * [SSH Power Tool](http://code.google.com/p/sshpt/) - Execute commands and upload files to many servers simultaneously without using pre-shared keys.
 * [stormssh](http://stormssh.readthedocs.org) - A command line tool to manage SSH connections.
-
+* [termius](https://termius.com/) - Termius is the SSH client that works on ‍Desktop and Mobile
 ## Statistics
 *Analytics software.*
 
